@@ -1,4 +1,4 @@
-# porfolio
+# Porfolio
 Coding tasks that I have done in a public portfolio
 
 ## Challenges File Description
